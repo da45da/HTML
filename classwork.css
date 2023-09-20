@@ -1,0 +1,5 @@
+body{background-color:magenta; background-image:url(phil.png); background-repeat: repeat-y}
+h1{padding-left:20px;color:blue;background-color:silver;border-top:3px dashed green;border-bottom:3px dashed green}
+ul{font-family:verdan,'times New roman',Impact;background-color:#BFC9CA}
+.new{background-color:#F5B7B1}
+imgP{border:none}
